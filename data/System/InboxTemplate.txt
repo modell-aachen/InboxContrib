@@ -11,13 +11,13 @@
       <div>
         <i class="icon-inbox"></i>
         <span>%MAKETEXT{"Input,"}%<a href="#">%MAKETEXT{" All "}%  </a><i class="icon-arrow-down" data-dropdown="#qw-inboxbar-more-menu"></i>
-          <ul id="qw-inboxbar-more-menu" class="qw-dropdown-light">
-            <li><a href="#">sub menu 1</a></li>
-            <li><a href="#">sub menu 2</a></li>
-            <li><a href="#">sub menu 3</a></li>
-            <li><a href="#">sub menu 4</a></li>
-          </ul>
-        </span>
+<!--           <ul id="qw-inboxbar-more-menu" class="qw-dropdown-light">
+          <li><a href="#">sub menu 1</a></li>
+          <li><a href="#">sub menu 2</a></li>
+          <li><a href="#">sub menu 3</a></li>
+          <li><a href="#">sub menu 4</a></li>
+        </ul>
+         -->        </span>
       </div>
     </div>
     <div class="content">
