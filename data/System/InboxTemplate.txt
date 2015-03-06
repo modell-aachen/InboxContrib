@@ -50,7 +50,7 @@
           </span>
         </div>
         <div class="author">
-          <span class="responsible"><i class="icon-user-author"></i> %REVINFO{format="$wikiusername"}%</span>
+          <div class="responsible"><i class="icon-user-author"></i> %REVINFO{format="$wikiusername"}%</div>
         </div>
       </div>
       <div class="tools">
@@ -61,7 +61,7 @@
         </ul>
       </div>
     </div>
-    <div class="inbox">
+    <div class="inbox new">
       <div class="inbox-left">
         <label>
           <i class="icon-megaphon"></i>
@@ -78,8 +78,8 @@
           </span>
         </div>
         <div class="author">
-          <span class="responsible"><i class="icon-user-author"></i> %REVINFO{format="$wikiusername"}%</span>
-          <span class="meetings"><i class="icon-app-meetings"></i>GESELLSCHAFTERSITZUNG</span>
+          <div class="responsible"><i class="icon-user-author"></i> %REVINFO{format="$wikiusername"}%</div>
+          <div class="meetings"><i class="icon-app-meetings"></i>%MAKETEXT{"GESELLSCHAFTERSITZUNG"}%</div>
         </div>
       </div> 
       <div class="tools">
@@ -111,7 +111,7 @@
           </span>
         </div>
         <div class="author">
-          <span class="responsible"><i class="icon-user-author"></i> %REVINFO{format="$wikiusername"}%</span>
+          <div class="responsible"><i class="icon-user-author"></i> %REVINFO{format="$wikiusername"}%</div>
         </div>
       </div>
       <div class="tools">
@@ -139,8 +139,8 @@
           </span>
         </div>
         <div class="author">
-          <span class="responsible"><i class="icon-user-author"></i> %REVINFO{format="$wikiusername"}%</span>
-          <span class="meetings"><i class="icon-app-meetings"></i>GESELLSCHAFTERSITZUNG</span>
+          <div class="responsible"><i class="icon-user-author"></i> %REVINFO{format="$wikiusername"}%</div>
+          <div class="meetings"><i class="icon-app-meetings"></i>%MAKETEXT{"GESELLSCHAFTERSITZUNG"}%</div>
         </div>
       </div> 
       <div class="tools">
