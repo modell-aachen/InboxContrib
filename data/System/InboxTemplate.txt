@@ -2,6 +2,8 @@
 
 %TMPL:DEF{"offcanvas:bars"}%%TMPL:PREV%%TMPL:P{"inboxbar"}%%TMPL:END%
 
+%TMPL:DEF{"script"}%%ADDTOZONE{"script" id="inboxJs" requires="JQUERYPLUGIN,FLATSKIN::SCRIPTS" text="<script type='text/javascript' src='%PUBURLPATH%/%SYSTEMWEB%/InboxContrib/inboxcontrib.js'></script>"}%%TMPL:PREV%%TMPL:END%
+
 %TMPL:DEF{"dashboard:menu"}%%TMPL:PREV%<div class="close" data-offcanvas-toggle="inboxbar" >inbox</div>%TMPL:END%
 
 %TMPL:DEF{"inboxbar"}%<!--inboxbar-->

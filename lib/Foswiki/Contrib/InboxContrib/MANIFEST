@@ -2,3 +2,4 @@
 data/System/InboxContrib.txt 0664
 data/System/InboxTemplate.txt 0664
 lib/Foswiki/Contrib/InboxContrib.pm 0444
+pub/System/InboxContrib/inboxcontrib.js 0664

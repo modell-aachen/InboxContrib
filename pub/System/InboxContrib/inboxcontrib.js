@@ -1,5 +1,5 @@
 jQuery(function($){ 
 
-	$('.qw-inboxbar').offcanvas({action: "open"});
+	$('.qw-inboxbar').offcanvas({"action": "open"});
 
 });
